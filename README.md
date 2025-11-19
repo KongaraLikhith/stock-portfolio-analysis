@@ -49,7 +49,7 @@ Alerts appear as Streamlit warning/info messages.
 ---
 
 ## Project Structure
-
+```
 portfolio_performance_monitoring_likhith/
 │── app.py
 │── requirements.txt
@@ -65,7 +65,7 @@ portfolio_performance_monitoring_likhith/
       ├── Dashboard.png
       ├── PerformanceMetrics_Alerts.png
       └── VisualizationTabs.png
-
+```
 ---
 
 ## How It Works
